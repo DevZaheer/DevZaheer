@@ -36,7 +36,7 @@ A team project: a ride-hailing transport app, similar to Uber, where customers r
 | **Languages** | C#, SQL |
 | **Backend** | ASP.NET Core, Web API |
 | **Database** | SQL Server |
-| **Tools** | Git, GitHub, Visual Studio / VS Code, Postman |
+| **Tools** | Git, GitHub, Visual Studio / VS Code, Swagger UI |
 
 ---
 
