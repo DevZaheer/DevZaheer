@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Zaheer
+# 👋 Introducing Myself
+Hello, I’m Ibrahim Abdulsamad. I’m passionate about Backend Development, C# and ASP.NET Core, Web APIs and SQL Server databases..
 
 Computer Science student and aspiring **backend developer** from Nigeria 🇳🇬. I build APIs and data-driven applications with **C# and ASP.NET Core**, and I enjoy understanding *why* things work, not just making them run.
 
